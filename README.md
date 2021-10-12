@@ -1,3 +1,5 @@
+[Текущее ДЗ про нефть](https://classroom.github.com/a/nGJzOui1)
+
 # Задачи в Wolfram Mathematica, что почитать и посмотреть?
 
 Видеолекции:</br>
