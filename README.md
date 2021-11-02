@@ -1,4 +1,5 @@
 [Текущее ДЗ про нефть](https://classroom.github.com/a/nGJzOui1)
+[Новое задание ДЗ про парки](https://classroom.github.com/a/5iitE7nc)
 
 # Задачи в Wolfram Mathematica, что почитать и посмотреть?
 
